@@ -39,15 +39,15 @@ sudo bash run.sh
 ## Output
 Output of this file is shown on the terminal where you run the program whether as `Python` application or in `Docker`, with answers as follows:
 1. Task 1
-<br>
-<br>Accounts
-<br>![Alt text](img/T1_accounts.png?raw=true, "Title")
-<br>
-<br>Cards
-<br> ![Alt text](img/T1_cards.png?raw=true, "Title")
-<br>
-<br>Savings Accounts
-<br> ![Alt text](img/T1_savings.png?raw=true, "Title")
+
+Accounts
+![Alt text](img/T1_accounts.png?raw=true, "Title")
+
+Cards
+![Alt text](img/T1_cards.png?raw=true, "Title")
+
+Savings Accounts
+![Alt text](img/T1_savings.png?raw=true, "Title")
 
 2. Task 2
 <br> As the table is tabular formed printed, it needs a long window to adequate
