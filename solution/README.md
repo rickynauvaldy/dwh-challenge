@@ -44,17 +44,17 @@ Output of this file is shown on the terminal where you run the program whether a
 <br>![Alt text](img/T1_accounts.png?raw=true, "Title")
 <br>
 <br>Cards
-<br>![Alt text](img/T1_cards.png?raw=true, "Title")
+<br> ![Alt text](img/T1_cards.png?raw=true, "Title")
 <br>
 <br>Savings Accounts
-<br>![Alt text](img/T1_savings.png?raw=true, "Title")
+<br> ![Alt text](img/T1_savings.png?raw=true, "Title")
 
 2. Task 2
 <br> As the table is tabular formed printed, it needs a long window to adequate
 
 3. Task 3
 <br>
-<br>![Alt text](img/T3.png?raw=true, "Title")
+<br> ![Alt text](img/T3.png?raw=true, "Title")
 
 ## Contact
 For further information, you might want to reach me to ricky.nauvaldy@gmail.com. This code is available on Github https://github.com/rickynauvaldy/dwh-challenge
