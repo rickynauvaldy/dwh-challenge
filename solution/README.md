@@ -39,15 +39,15 @@ sudo bash run.sh
 ## Output
 Output of this file is shown on the terminal where you run the program whether as `Python` application or in `Docker`, with answers as follows:
 1. Task 1
-![Alt text]('img/T1_accounts.png?raw=true', "Title")
-![Alt text]('img/T1_cards.png?raw=true', "Title")
-![Alt text]('img/T1_savings_account.png?raw=true', "Title")
+![Alt text](img/T1_accounts.png?raw=true, "Title")
+![Alt text](img/T1_cards.png?raw=true, "Title")
+![Alt text](img/T1_savings_account.png?raw=true, "Title")
 
 2. Task 2
 As the table is tabular formed printed, it needs a long window to adequate
 
 3. Task 3
-![Alt text]('img/T3.png?raw=true', "Title")
+![Alt text](img/T3.png?raw=true, "Title")
 
 ## Contact
 For further information, you might want to reach me to ricky.nauvaldy@gmail.com. This code is available on Github https://github.com/rickynauvaldy/dwh-challenge
