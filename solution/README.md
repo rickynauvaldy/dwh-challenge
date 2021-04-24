@@ -53,8 +53,7 @@ Savings Accounts
 <br> As the table is tabular formed printed, it needs a long window to adequate
 
 3. Task 3
-<br>
-<br> ![Alt text](img/T3.png?raw=true, "Title")
+![Alt text](img/T3.png?raw=true, "Title")
 
 ## Contact
 For further information, you might want to reach me to ricky.nauvaldy@gmail.com. This code is available on Github https://github.com/rickynauvaldy/dwh-challenge
